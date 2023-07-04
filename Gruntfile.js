@@ -2,6 +2,7 @@
 //Install npm i --save-dev grunt
 //Install npm i --save-dev grunt-contrib-less  Esse plugin é usado para fazer a compilação do less.
 //Install npm i --save-dev grunt-contrib-sass  Esse plugin é usado para fazer a compilação do sass.
+//Install npm i --save-dev grunt-contrib-watch Esse plugin é usado para fazer o grunt ficar monitorando qualquer modificação nos arquivos.
 //Install npm i --save-dev grunt-concurrent    Esse plugin é usado para executar tarefas simultaneamente ou seja, serve pra execultar todas as tarefas ao mesmo tempo.
 //Install npm i --save-dev grunt-replace       Esse plugin é usado para fazer a "copia" do Html, uma para o Desenvolvedor e a outra para o Produtor.
 //Install npm i --save-dev grunt-contrib-htmlmin  Esse plugin é usado para fazer a minificalçao do arquivo html.
